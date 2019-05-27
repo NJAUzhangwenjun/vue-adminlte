@@ -7,6 +7,12 @@
 ## Build Setup
 
 ``` bash
+# clone or download
+
+git@github.com:NJAUzhangwenjun/vue-adminlte.git
+
+https://github.com/NJAUzhangwenjun/vue-adminlte/archive/master.zip
+
 # install dependencies
 npm install
 
