@@ -9,7 +9,7 @@
 ``` bash
 # clone or download
 
-git@github.com:NJAUzhangwenjun/vue-adminlte.git
+git clone git@github.com:NJAUzhangwenjun/vue-adminlte.git
 
 https://github.com/NJAUzhangwenjun/vue-adminlte/archive/master.zip
 
